@@ -1,0 +1,15 @@
+name: lolnetAuth
+main: nz.co.lolnet.LolnetAuth
+version: 1.5.1
+description: lolnetAuth
+authors: [CptWin]
+website: http://www.lolnet.co.nz
+commands:
+  login:
+    description: logs you into your account with lolnet
+  register:
+    description: registers you with lolnet
+  recover:
+    description: helps you recover your password if lost or forgotten
+  changepassword:
+    description: allows you to change your password in game
